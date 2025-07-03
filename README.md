@@ -8,6 +8,8 @@
   - 🖼️ Automatic image extraction
   - ⚙️ Complete admin interface
   - 🚀 Easy shortcode integration
+    
+<img width="1246" alt="Screenshot " src="https://github.com/user-attachments/assets/7330b504-4e73-4005-8005-3644855b57a6" />
 
   ## Installation
   1. Download the plugin files
