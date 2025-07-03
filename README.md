@@ -17,7 +17,9 @@
 
   ## Usage
   [topic_rss]                    // Basic grid
+  
   [topic_rss max="15"]          // Limit articles
+  
   [topic_rss columns="2"]       // 2-column layout
 
   ## Download
